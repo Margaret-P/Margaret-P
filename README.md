@@ -39,7 +39,7 @@ fields_of_interests:
 technical_background:
   [
     "Intern - HR Systems",
-    "Intern - IT Support",
+    "Intern - IT Support"
   ]
   
 currently_learning: ["Angular, Unity, and OpenCV"]
