@@ -43,7 +43,7 @@ technical_background:
   ]
   
 currently_learning: ["Angular, Unity, and OpenCV"]
-2025 Goals: ["Create full stack projects, gain industry experience, and leanr as much as possible."]
+2025 Goals: ["Create full stack projects, gain industry experience, and learn as much as possible."]
 hobbies: ["Gaming", "CAD/3d Modeling", "Theater", "Art", "Traveling"]
 ```
   
